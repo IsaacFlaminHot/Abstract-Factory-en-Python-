@@ -53,3 +53,6 @@ Se utiliza el patrón **Abstract Factory**, que permite:
 - Desacoplar la creación de objetos del código cliente
 - Facilitar la extensión del sistema
 
+## Conclusión 
+
+Se me hace interesante ver como en este simple codigo, al momento de implementar otra modalidad, simplemente agregamos más clases, en vez de modificar el código ya existente.
